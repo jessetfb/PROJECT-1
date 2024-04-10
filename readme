@@ -4,12 +4,12 @@ By jesse langat
 
 Description
 
-**this is a project done by me it is basicly a news website ,consisting the latest news in the world ranging from sports,politics,weather...e.t.c
+**This is a project done by me .it is a news app, consisting of the latest news in the world ranging from sports, politics, weather...e.t.c
 
 
 
 debugging
-if you find an error or would like to make changes to the code or make it better feel free to reach me through the issues tab and creat an issue .
+if you find an error or would like to make changes to the code or make it better feel free to reach me through the issues tab and create an issue.
 
 Installation
 You use git clone to be able to download the documents in the GitHub
@@ -18,7 +18,7 @@ Installation Requirements
 Git
 
 Installation instruction
- git clone the link 
+ git clone the link https://github.com/jessetfb/PROJECT-1.git
 Live Link
 [Git](gh-pages link)
 
